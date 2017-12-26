@@ -1,0 +1,12 @@
+{
+  "name": "upomodoro",
+  "version": "0.1.0",
+  "bin": "./source",
+  "private": true,
+  "description": "Pomodoro technique tracking tool for the Microbit",
+  "author": "Santiago Lizardo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
